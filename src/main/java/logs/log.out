@@ -1,0 +1,8 @@
+2022-07-12 12:07:911 INFO  ManageDriver :29 - Launching Chrome Browser
+2022-07-12 12:07:805 INFO  ProductPage :34 - Adding Flying Ninja to cart : 
+2022-07-12 12:07:885 INFO  ProductPage :42 - Adding Patient Ninja to cart : 
+2022-07-12 12:07:970 INFO  ProductPage :38 - Adding Happy Ninja to cart : 
+2022-07-12 12:07:37 INFO  ProductPage :46 - Adding Premium Quality to cart : 
+2022-07-12 12:07:130 INFO  CartPage :41 - Clicking on Cart : 
+2022-07-12 12:07:436 INFO  CartPage :46 - Checking Cart Quantity : 
+2022-07-12 12:07:717 INFO  CartPage :58 - Checking Cart Quantity after removing 1 product : 
